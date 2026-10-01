@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6A47ADC2-D52D-768C-8879-C12455AEACBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator", "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj", "{55EE1837-FD5E-BDA7-EED3-D1DD206E212C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{C99A9F56-675E-86C0-2E24-C40803B15D36}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{1EB82F22-9925-7CD5-B961-06978ABCE86E}"
 EndProject
 Global
@@ -15,6 +19,14 @@ Global
 		{6A47ADC2-D52D-768C-8879-C12455AEACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A47ADC2-D52D-768C-8879-C12455AEACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A47ADC2-D52D-768C-8879-C12455AEACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EE1837-FD5E-BDA7-EED3-D1DD206E212C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EE1837-FD5E-BDA7-EED3-D1DD206E212C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EE1837-FD5E-BDA7-EED3-D1DD206E212C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EE1837-FD5E-BDA7-EED3-D1DD206E212C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99A9F56-675E-86C0-2E24-C40803B15D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99A9F56-675E-86C0-2E24-C40803B15D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99A9F56-675E-86C0-2E24-C40803B15D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99A9F56-675E-86C0-2E24-C40803B15D36}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1EB82F22-9925-7CD5-B961-06978ABCE86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1EB82F22-9925-7CD5-B961-06978ABCE86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EB82F22-9925-7CD5-B961-06978ABCE86E}.Release|Any CPU.ActiveCfg = Release|Any CPU

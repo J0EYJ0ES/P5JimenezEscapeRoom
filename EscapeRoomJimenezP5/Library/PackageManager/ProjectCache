@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639264803520956382
-    m_Hash: 3610172975
+      ticks: 639264822867311659
+    m_Hash: 2609657091
   m_LockFileStatus:
     m_FilePath: C:/Users/Per5Student/Documents/Unity/Github/P5JimenezEscapeRoom/EscapeRoomJimenezP5/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639264803521046368
-    m_Hash: 2650209981
+      ticks: 639264822867393172
+    m_Hash: 2934903102
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@2.0.4
+    - packageId: com.unity.collab-proxy@2.0.7
       testable: 0
       isDirectDependency: 1
-      version: 2.0.4
+      version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\Per5Student\Documents\Unity\Github\P5JimenezEscapeRoom\EscapeRoomJimenezP5\Library\PackageCache\com.unity.collab-proxy@2.0.4
+      resolvedPath: C:\Users\Per5Student\Documents\Unity\Github\P5JimenezEscapeRoom\EscapeRoomJimenezP5\Library\PackageCache\com.unity.collab-proxy@2.0.7
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -34,7 +34,7 @@ m_PackageAssets:
         email: 
         url: 
       category: Editor
-      type: asset
+      type: assets
       description: The package gives you the ability to use Unity Version Control
         in the Unity editor. To use Unity Version Control, a subscription is required.
         Learn more about how you can get started for free by visiting plasticscm.com.
@@ -180,13 +180,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 638176024310000000
+      datePublishedTicks: 638264754080000000
       documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: dc15ef2ed609e8c19d0525a46c5bf7dd78df8432
+        revision: 13a0e74f47307a1b20a57747cea59891ce36a647
         path: 
     - packageId: com.unity.ide.rider@3.0.21
       testable: 0
